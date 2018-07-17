@@ -1,7 +1,4 @@
-﻿// Boş şablona giriş için aşağıdaki belgelere bakın:
-// http://go.microsoft.com/fwlink/?LinkID=397704
-// Cordova-simulate içinde veya Android cihazlarda/öykünücülerinde sayfa yükleme durumunda kodlarda hata ayıklamak için: Uygulamanızı çalıştırın, kesme noktalarını ayarlayın, 
-// ve ardından JavaScript Konsolu'ndan "window.location.reload()" kodunu çalıştırın.
+﻿
 (function () {
     "use strict";
 
